@@ -1,0 +1,21 @@
+{
+  "name": "functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "ramda": "^0.22.1",
+    "redux": "^3.6.0",
+    "redux-watch": "^1.1.1"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
